@@ -9,7 +9,7 @@ data = {
 }
 
 # Create DataFrame
-df = pd.DataFrame(data)
+df = pd.DataFrame(data) 
 
 # Save DataFrame to CSV
 df.to_csv('student_preferences.csv', index=False)
