@@ -7,7 +7,7 @@ data = {
     'learning_path': ['Math - Visual Learners', 'Science - Auditory Learners', 'History - Kinesthetic Learners',
                       'Math - Visual Learners', 'Science - Auditory Learners']
 }
-
+ 
 # Create DataFrame
 df = pd.DataFrame(data) 
 
